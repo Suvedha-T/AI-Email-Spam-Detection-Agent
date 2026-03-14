@@ -176,6 +176,19 @@ Possible extensions of the project:
 
 ---
 
+## Results
+
+### Performance Metrics
+![Metrics Graph](metrics_graph.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](roc_curve.png)
+
+---
+
 ## Author
 
 **Suvedha T**
